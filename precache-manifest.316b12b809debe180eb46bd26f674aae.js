@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "636df90a02a3c9dd3729bb10b0c942fa",
+    "revision": "00b94449a1bad536dcde8285f8883795",
     "url": "/dan0102dan.github.io/index.html"
   },
   {
-    "revision": "395bdae271678d3606d7",
+    "revision": "ed07a77346d7d9b3ed0e",
     "url": "/dan0102dan.github.io/static/css/2.1e562f28.chunk.css"
   },
   {
-    "revision": "bb2e776b74f557870454",
-    "url": "/dan0102dan.github.io/static/css/main.a9b966cb.chunk.css"
+    "revision": "f43a30643373d785bdab",
+    "url": "/dan0102dan.github.io/static/css/main.b66f7aef.chunk.css"
   },
   {
-    "revision": "395bdae271678d3606d7",
-    "url": "/dan0102dan.github.io/static/js/2.9259389e.chunk.js"
+    "revision": "ed07a77346d7d9b3ed0e",
+    "url": "/dan0102dan.github.io/static/js/2.49b16324.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/dan0102dan.github.io/static/js/2.9259389e.chunk.js.LICENSE.txt"
+    "url": "/dan0102dan.github.io/static/js/2.49b16324.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb2e776b74f557870454",
-    "url": "/dan0102dan.github.io/static/js/main.758d4626.chunk.js"
+    "revision": "f43a30643373d785bdab",
+    "url": "/dan0102dan.github.io/static/js/main.cf7ba2ed.chunk.js"
   },
   {
     "revision": "3c88fb86f546cc429a20",

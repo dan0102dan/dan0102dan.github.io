@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,gBACC,mCAA6B,CAA7B,2BACD,CAEA,yBACE,GACD,SACC,CACA,GACE,SACF,CACF,CAPA,iBACE,GACD,SACC,CACA,GACE,SACF,CACF","file":"main.a9b966cb.chunk.css","sourcesContent":[".Banner__before {\n\tanimation: image 0.35s linear;\n}\n\n@keyframes image {\n  0% {\n\topacity: 0;\n  }\n  100% {\n    opacity: 1;\n  }\n}"]}
