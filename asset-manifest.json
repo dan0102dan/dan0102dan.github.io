@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/dan0102dan.github.io/static/css/main.b66f7aef.chunk.css",
-    "main.js": "/dan0102dan.github.io/static/js/main.cf7ba2ed.chunk.js",
-    "main.js.map": "/dan0102dan.github.io/static/js/main.cf7ba2ed.chunk.js.map",
+    "main.css": "/dan0102dan.github.io/static/css/main.0b2a7f78.chunk.css",
+    "main.js": "/dan0102dan.github.io/static/js/main.6c5bcd2c.chunk.js",
+    "main.js.map": "/dan0102dan.github.io/static/js/main.6c5bcd2c.chunk.js.map",
     "runtime-main.js": "/dan0102dan.github.io/static/js/runtime-main.b628d371.js",
     "runtime-main.js.map": "/dan0102dan.github.io/static/js/runtime-main.b628d371.js.map",
-    "static/css/2.1e562f28.chunk.css": "/dan0102dan.github.io/static/css/2.1e562f28.chunk.css",
-    "static/js/2.49b16324.chunk.js": "/dan0102dan.github.io/static/js/2.49b16324.chunk.js",
-    "static/js/2.49b16324.chunk.js.map": "/dan0102dan.github.io/static/js/2.49b16324.chunk.js.map",
+    "static/css/2.eff834ed.chunk.css": "/dan0102dan.github.io/static/css/2.eff834ed.chunk.css",
+    "static/js/2.0c185654.chunk.js": "/dan0102dan.github.io/static/js/2.0c185654.chunk.js",
+    "static/js/2.0c185654.chunk.js.map": "/dan0102dan.github.io/static/js/2.0c185654.chunk.js.map",
     "index.html": "/dan0102dan.github.io/index.html",
-    "precache-manifest.316b12b809debe180eb46bd26f674aae.js": "/dan0102dan.github.io/precache-manifest.316b12b809debe180eb46bd26f674aae.js",
+    "precache-manifest.49a0604c45bc176b3b6bfb1deec597f0.js": "/dan0102dan.github.io/precache-manifest.49a0604c45bc176b3b6bfb1deec597f0.js",
     "service-worker.js": "/dan0102dan.github.io/service-worker.js",
-    "static/css/2.1e562f28.chunk.css.map": "/dan0102dan.github.io/static/css/2.1e562f28.chunk.css.map",
-    "static/css/main.b66f7aef.chunk.css.map": "/dan0102dan.github.io/static/css/main.b66f7aef.chunk.css.map",
-    "static/js/2.49b16324.chunk.js.LICENSE.txt": "/dan0102dan.github.io/static/js/2.49b16324.chunk.js.LICENSE.txt",
-    "static/media/converter.png": "/dan0102dan.github.io/static/media/converter.d549df08.png"
+    "static/css/2.eff834ed.chunk.css.map": "/dan0102dan.github.io/static/css/2.eff834ed.chunk.css.map",
+    "static/css/main.0b2a7f78.chunk.css.map": "/dan0102dan.github.io/static/css/main.0b2a7f78.chunk.css.map",
+    "static/js/2.0c185654.chunk.js.LICENSE.txt": "/dan0102dan.github.io/static/js/2.0c185654.chunk.js.LICENSE.txt",
+    "static/media/2spotify.png": "/dan0102dan.github.io/static/media/2spotify.2617040e.png",
+    "static/media/converter.png": "/dan0102dan.github.io/static/media/converter.d549df08.png",
+    "static/media/newRelease.png": "/dan0102dan.github.io/static/media/newRelease.a408f244.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b628d371.js",
-    "static/css/2.1e562f28.chunk.css",
-    "static/js/2.49b16324.chunk.js",
-    "static/css/main.b66f7aef.chunk.css",
-    "static/js/main.cf7ba2ed.chunk.js"
+    "static/css/2.eff834ed.chunk.css",
+    "static/js/2.0c185654.chunk.js",
+    "static/css/main.0b2a7f78.chunk.css",
+    "static/js/main.6c5bcd2c.chunk.js"
   ]
 }
