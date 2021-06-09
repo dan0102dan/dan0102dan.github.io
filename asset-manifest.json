@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7711202.chunk.css",
-    "main.js": "/static/js/main.2cc1b0a9.chunk.js",
+    "main.css": "/static/css/main.a8e867e3.chunk.css",
+    "main.js": "/static/js/main.f7c95e09.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.cad7d90e.js",
-    "static/js/2.b5f66920.chunk.js": "/static/js/2.b5f66920.chunk.js",
+    "static/js/2.194160a5.chunk.js": "/static/js/2.194160a5.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.b5f66920.chunk.js.LICENSE.txt": "/static/js/2.b5f66920.chunk.js.LICENSE.txt"
+    "static/js/2.194160a5.chunk.js.LICENSE.txt": "/static/js/2.194160a5.chunk.js.LICENSE.txt",
+    "static/media/minesweeper.ce0fc9b5.png": "/static/media/minesweeper.ce0fc9b5.png",
+    "static/media/newRelAl.8ca93468.png": "/static/media/newRelAl.8ca93468.png",
+    "static/media/newRelAr.665fde57.png": "/static/media/newRelAr.665fde57.png",
+    "static/media/newRelMa.2aa9e141.png": "/static/media/newRelMa.2aa9e141.png",
+    "static/media/paperShop.99683abf.png": "/static/media/paperShop.99683abf.png",
+    "static/media/seaBattle.e07b834f.png": "/static/media/seaBattle.e07b834f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cad7d90e.js",
-    "static/js/2.b5f66920.chunk.js",
-    "static/css/main.b7711202.chunk.css",
-    "static/js/main.2cc1b0a9.chunk.js"
+    "static/js/2.194160a5.chunk.js",
+    "static/css/main.a8e867e3.chunk.css",
+    "static/js/main.f7c95e09.chunk.js"
   ]
 }
