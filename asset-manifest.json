@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6e25aaf.chunk.css",
-    "main.js": "/static/js/main.69630a92.chunk.js",
+    "main.css": "/static/css/main.d58844a7.chunk.css",
+    "main.js": "/static/js/main.dd05be44.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.cad7d90e.js",
     "static/js/2.194160a5.chunk.js": "/static/js/2.194160a5.chunk.js",
     "index.html": "/index.html",
     "static/js/2.194160a5.chunk.js.LICENSE.txt": "/static/js/2.194160a5.chunk.js.LICENSE.txt",
     "static/media/expert.1eec23a3.png": "/static/media/expert.1eec23a3.png",
     "static/media/gallows.bda2313f.png": "/static/media/gallows.bda2313f.png",
+    "static/media/github.04be58c1.svg": "/static/media/github.04be58c1.svg",
+    "static/media/instagram.6ed2cb52.svg": "/static/media/instagram.6ed2cb52.svg",
     "static/media/minesweeper.ce0fc9b5.png": "/static/media/minesweeper.ce0fc9b5.png",
     "static/media/newRelAl.66cc3ac2.png": "/static/media/newRelAl.66cc3ac2.png",
     "static/media/newRelAr.a419630e.png": "/static/media/newRelAr.a419630e.png",
     "static/media/newRelMa.96529046.png": "/static/media/newRelMa.96529046.png",
     "static/media/paperShop.83139826.png": "/static/media/paperShop.83139826.png",
-    "static/media/seaBattle.e07b834f.png": "/static/media/seaBattle.e07b834f.png"
+    "static/media/seaBattle.e07b834f.png": "/static/media/seaBattle.e07b834f.png",
+    "static/media/twitter.5ae9f4cf.svg": "/static/media/twitter.5ae9f4cf.svg",
+    "static/media/vk.5489041b.svg": "/static/media/vk.5489041b.svg",
+    "static/media/whatsapp.a8758e36.svg": "/static/media/whatsapp.a8758e36.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cad7d90e.js",
     "static/js/2.194160a5.chunk.js",
-    "static/css/main.c6e25aaf.chunk.css",
-    "static/js/main.69630a92.chunk.js"
+    "static/css/main.d58844a7.chunk.css",
+    "static/js/main.dd05be44.chunk.js"
   ]
 }
