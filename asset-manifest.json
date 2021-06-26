@@ -1,11 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f7e58eb.chunk.css",
-    "main.js": "/static/js/main.2e4f0ca4.chunk.js",
+    "main.css": "/static/css/main.e54f623e.chunk.css",
+    "main.js": "/static/js/main.257123e4.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.cad7d90e.js",
-    "static/js/2.ba27344a.chunk.js": "/static/js/2.ba27344a.chunk.js",
+    "static/js/2.1df411e7.chunk.js": "/static/js/2.1df411e7.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.ba27344a.chunk.js.LICENSE.txt": "/static/js/2.ba27344a.chunk.js.LICENSE.txt",
+    "static/js/2.1df411e7.chunk.js.LICENSE.txt": "/static/js/2.1df411e7.chunk.js.LICENSE.txt",
+    "static/media/JavaScript.e7ed5e28.svg": "/static/media/JavaScript.e7ed5e28.svg",
+    "static/media/MacOS.58d9c0ac.svg": "/static/media/MacOS.58d9c0ac.svg",
+    "static/media/MongoDB.3beac5ba.svg": "/static/media/MongoDB.3beac5ba.svg",
+    "static/media/Nodejs.656e25dd.svg": "/static/media/Nodejs.656e25dd.svg",
+    "static/media/ReactLogo.5b0914f5.svg": "/static/media/ReactLogo.5b0914f5.svg",
+    "static/media/Ubuntu.246876e8.svg": "/static/media/Ubuntu.246876e8.svg",
     "static/media/expert.1eec23a3.png": "/static/media/expert.1eec23a3.png",
     "static/media/gallows.bda2313f.png": "/static/media/gallows.bda2313f.png",
     "static/media/github.73060bf7.svg": "/static/media/github.73060bf7.svg",
@@ -22,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cad7d90e.js",
-    "static/js/2.ba27344a.chunk.js",
-    "static/css/main.8f7e58eb.chunk.css",
-    "static/js/main.2e4f0ca4.chunk.js"
+    "static/js/2.1df411e7.chunk.js",
+    "static/css/main.e54f623e.chunk.css",
+    "static/js/main.257123e4.chunk.js"
   ]
 }
