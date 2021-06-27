@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.e54f623e.chunk.css",
-    "main.js": "/static/js/main.257123e4.chunk.js",
+    "main.css": "/static/css/main.eb1ccfa3.chunk.css",
+    "main.js": "/static/js/main.ead998cf.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.cad7d90e.js",
     "static/js/2.1df411e7.chunk.js": "/static/js/2.1df411e7.chunk.js",
     "index.html": "/index.html",
     "static/js/2.1df411e7.chunk.js.LICENSE.txt": "/static/js/2.1df411e7.chunk.js.LICENSE.txt",
+    "static/media/CSSLogo.212d777a.svg": "/static/media/CSSLogo.212d777a.svg",
+    "static/media/HTMLLogo.8daa82ad.svg": "/static/media/HTMLLogo.8daa82ad.svg",
     "static/media/JavaScript.e7ed5e28.svg": "/static/media/JavaScript.e7ed5e28.svg",
     "static/media/MacOS.58d9c0ac.svg": "/static/media/MacOS.58d9c0ac.svg",
     "static/media/MongoDB.3beac5ba.svg": "/static/media/MongoDB.3beac5ba.svg",
@@ -22,6 +24,7 @@
     "static/media/newRelMa.96529046.png": "/static/media/newRelMa.96529046.png",
     "static/media/paperShop.83139826.png": "/static/media/paperShop.83139826.png",
     "static/media/seaBattle.e07b834f.png": "/static/media/seaBattle.e07b834f.png",
+    "static/media/telegram.bbd5e771.svg": "/static/media/telegram.bbd5e771.svg",
     "static/media/twitter.045841b4.svg": "/static/media/twitter.045841b4.svg",
     "static/media/vk.8c770e36.svg": "/static/media/vk.8c770e36.svg",
     "static/media/whatsapp.4eca3da9.svg": "/static/media/whatsapp.4eca3da9.svg"
@@ -29,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.cad7d90e.js",
     "static/js/2.1df411e7.chunk.js",
-    "static/css/main.e54f623e.chunk.css",
-    "static/js/main.257123e4.chunk.js"
+    "static/css/main.eb1ccfa3.chunk.css",
+    "static/js/main.ead998cf.chunk.js"
   ]
 }
